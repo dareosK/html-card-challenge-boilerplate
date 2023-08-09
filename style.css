@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&family=Raleway:wght@500&display=swap');
+/* Internal Imports */
+@import url('components/test.css');
+
+
+h1, h2 {
+  font-family: 'Raleway', sans-serif;
+}
+
+
+p, a, ul {
+  font-family: 'Open Sans', sans-serif;
+}
